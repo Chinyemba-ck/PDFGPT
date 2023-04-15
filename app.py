@@ -38,7 +38,7 @@ def split_text(pdf_text):
 
 def aimodel(file, text):
     query = text
-    os.environ["OPENAI_API_KEY"] = "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"
+    os.environ["OPENAI_API_KEY"] = "MY_API_KEY"
     pdf_file = PdfReader(file)
 
     pdf_text = read_pdf(pdf_file)
