@@ -1,2 +1,2 @@
 # PDFGPT
-A GPT for pdf files
+A Generative pre-trained transformer for personal pdf files via Langchain and openai
