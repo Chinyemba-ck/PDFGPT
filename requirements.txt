@@ -1,0 +1,9 @@
+PyPDF2
+langchain
+elasticsearch
+pinecone-client
+weaviate-client
+faiss-cpu
+openai
+numpy
+numpy
